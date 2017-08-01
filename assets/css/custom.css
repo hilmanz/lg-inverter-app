@@ -1,0 +1,30 @@
+/****** CUSTOM STYLES HERE ******/
+
+.flip-clock-divider.hours {
+    display: none;
+}
+.flip-clock-divider.minutes {
+    display: none;
+}
+.clock ul:nth-child(5) {
+	display: none;
+}
+.clock ul:nth-child(6) {
+	display: none;
+}
+.clock ul:nth-child(7) {
+	display: none;
+}
+.clock ul:nth-child(8) {
+	display: none;
+}
+.clock ul:nth-child(9) {
+	display: none;
+}
+.flip-clock-wrapper {
+	background-image: url(../img/bg-countdown.png);
+	background-position: left bottom;
+	background-size: contain;
+	background-repeat: no-repeat;
+	padding-bottom: 18px;
+}
